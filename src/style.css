@@ -1,0 +1,32 @@
+*{
+  background-image: url("img/fondo.png");
+  background-attachment: fixed;
+  background-position: center
+  center
+  center;
+  background-size: cover;
+  margin:80px;
+}
+.content1{
+color: black;
+font-family:cursive;
+font-weight: bold;
+text-align: center;
+font-size:x-large;
+}
+#generacionlima{
+  color:white;
+  font-family:cursive;
+  font-size: large;
+}
+#generacionmex{
+  color:white;
+  font-family:cursive;
+  font-size:large;
+}
+#generacionsant{
+  color:white;
+  font-family:cursive;
+  font-size:large;
+
+}
